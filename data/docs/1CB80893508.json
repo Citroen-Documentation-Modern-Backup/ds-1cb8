@@ -1,0 +1,24 @@
+{
+ "ref": "1CB80893508",
+ "refDisplay": "1CB8 0 89 3508",
+ "title": "CONDUIT SORTIE PULSEUR BATTERIE TRACTION",
+ "nature": "",
+ "applicability": "(0018) DS5 BERLINE 5PTES DIESEL TURBO DW10CTED4 FAP BVM PILOTEE 6 RAPPORTS HYBRIDE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0766"
+  }
+ ]
+}

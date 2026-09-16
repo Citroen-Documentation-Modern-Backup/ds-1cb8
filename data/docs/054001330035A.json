@@ -1,0 +1,18 @@
+{
+ "ref": "054001330035A",
+ "refDisplay": "0540 01 330035A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM MC ET BVM6 ET BVM MCA ET CP 17 X 74",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCH",
+   "fctId": "FCT0017"
+  }
+ ]
+}

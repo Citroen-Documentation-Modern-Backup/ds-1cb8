@@ -1,0 +1,58 @@
+{
+ "ref": "054004451210B",
+ "refDisplay": "0540 04 451210B",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": "PIVOT ROUE DIAMETRE 82 DEPUIS OPR 13342",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCU",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCC",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCL",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FKH",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCH",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBR",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FKA",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FKB",
+   "fctId": "FCT0040"
+  }
+ ]
+}

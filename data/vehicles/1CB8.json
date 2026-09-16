@@ -1,0 +1,175 @@
+{
+ "ldp": "1CB8",
+ "label": "DS5",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DA5",
+     "lib": "BERLINE 5PTES"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FBM",
+     "lib": "1.6 HDI (DV6C)"
+    },
+    {
+     "val": "B0FCU",
+     "lib": "1.6 THP 16v 150 (EP6CDT MD)"
+    },
+    {
+     "val": "B0FCC",
+     "lib": "1.6 THP 16v 156"
+    },
+    {
+     "val": "B0FCL",
+     "lib": "1.6 THP 16v 163 (EP6CDT M)"
+    },
+    {
+     "val": "B0FKH",
+     "lib": "1.6 THP 16v 163 (EP6FDT)"
+    },
+    {
+     "val": "B0FCH",
+     "lib": "1.6 THP 16v 200"
+    },
+    {
+     "val": "B0FBR",
+     "lib": "2.0 HDi 136 (DW10CB FAP DTR)"
+    },
+    {
+     "val": "B0FBB",
+     "lib": "2.0 HDi 163 FAP"
+    },
+    {
+     "val": "B0FKA",
+     "lib": "DIESEL DW10FC FAP 130KW 1997"
+    },
+    {
+     "val": "B0FKB",
+     "lib": "DIESEL DW10FD FAP 110KW 1997"
+    },
+    {
+     "val": "B0FLA",
+     "lib": "DIESEL TURBO DV6FC FAP 85KW"
+    },
+    {
+     "val": "B0FKD",
+     "lib": "DIESEL TURBO DV6FC FAP 88KW"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DA5&B0F=B0FBM",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FBM"
+   },
+   "label": "BERLINE 5PTES · 1.6 HDI (DV6C)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FCU",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FCU"
+   },
+   "label": "BERLINE 5PTES · 1.6 THP 16v 150 (EP6CDT MD)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FCC",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FCC"
+   },
+   "label": "BERLINE 5PTES · 1.6 THP 16v 156"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FCL",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FCL"
+   },
+   "label": "BERLINE 5PTES · 1.6 THP 16v 163 (EP6CDT M)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FKH",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FKH"
+   },
+   "label": "BERLINE 5PTES · 1.6 THP 16v 163 (EP6FDT)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FCH",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FCH"
+   },
+   "label": "BERLINE 5PTES · 1.6 THP 16v 200"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FBR",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FBR"
+   },
+   "label": "BERLINE 5PTES · 2.0 HDi 136 (DW10CB FAP DTR)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FBB",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FBB"
+   },
+   "label": "BERLINE 5PTES · 2.0 HDi 163 FAP"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FKA",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FKA"
+   },
+   "label": "BERLINE 5PTES · DIESEL DW10FC FAP 130KW 1997"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FKB",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FKB"
+   },
+   "label": "BERLINE 5PTES · DIESEL DW10FD FAP 110KW 1997"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FLA",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FLA"
+   },
+   "label": "BERLINE 5PTES · DIESEL TURBO DV6FC FAP 85KW"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FKD",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FKD"
+   },
+   "label": "BERLINE 5PTES · DIESEL TURBO DV6FC FAP 88KW"
+  }
+ ]
+}

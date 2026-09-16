@@ -1,0 +1,18 @@
+{
+ "ref": "054006173080A",
+ "refDisplay": "0540 06 173080A",
+ "title": "CANALISATION FIX FILTRE CARBURANT",
+ "nature": "",
+ "applicability": "CHAINE TRACTION HYBRIDE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0010"
+  }
+ ]
+}

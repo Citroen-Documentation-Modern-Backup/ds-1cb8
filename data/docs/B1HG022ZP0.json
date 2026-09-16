@@ -1,0 +1,25 @@
+{
+ "ref": "B1HG022ZP0",
+ "refDisplay": "B1HG022ZP0",
+ "title": "Dépose - repose : électrovannes de commande (turbocompresseur, dosage air admission, refroidissement air admission, EGR)",
+ "nature": "Dépose-pose",
+ "applicability": "CHAINE TRACTION HYBRIDE OU SANS CHAINE TRACTION HYBRIDE",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0014"
+  }
+ ]
+}

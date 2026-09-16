@@ -1,0 +1,73 @@
+{
+ "ref": "054007008401A",
+ "refDisplay": "0540 07 008401A",
+ "title": "PAVILLON - DOUBLURE - PORTE BAGAGES",
+ "nature": "",
+ "applicability": "SANS VITRE PAVILLON",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCU",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCC",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCL",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FKH",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCH",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBR",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FKA",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FKB",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FLA",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FKD",
+   "fctId": "FCT0143"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "ref": "054003413101A",
+ "refDisplay": "0540 03 413101A",
+ "title": "PIVOTS MOYEUX ROULEMENTS TRAIN AV",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCU",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCC",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCL",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FKH",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCH",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBR",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FKA",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FKB",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FLA",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FKD",
+   "fctId": "FCT0026"
+  }
+ ]
+}

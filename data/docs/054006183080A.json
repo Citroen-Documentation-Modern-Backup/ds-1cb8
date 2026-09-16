@@ -1,0 +1,18 @@
+{
+ "ref": "054006183080A",
+ "refDisplay": "0540 06 183080A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "SANS CHAINE TRACTION HYBRIDE JUSQU’A OPR 13474",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0011"
+  }
+ ]
+}

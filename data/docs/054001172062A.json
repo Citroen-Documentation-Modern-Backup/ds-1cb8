@@ -1,0 +1,18 @@
+{
+ "ref": "054001172062A",
+ "refDisplay": "0540 01 172062A",
+ "title": "SURALIMENTATION RACCORD D’AIR",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 13033",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCU",
+   "fctId": "FCT0014"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "ref": "B1GG01D3P0",
+ "refDisplay": "B1GG01D3P0",
+ "title": "Dépose - repose : Pompe à eau",
+ "nature": "Dépose-pose",
+ "applicability": "CHAINE TRACTION HYBRIDE",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0009"
+  }
+ ]
+}

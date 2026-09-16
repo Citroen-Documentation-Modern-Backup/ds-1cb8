@@ -1,0 +1,49 @@
+{
+ "ref": "1CB8018014S",
+ "refDisplay": "1CB8 0 18 014S",
+ "title": "SONDE NIVEAU HUILE MOTEUR",
+ "nature": "",
+ "applicability": "(001B) DS5 BERLINE 5PTES DIESEL TURBO DV6C BVM PILOTEE 6 RAPPORTS STT",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCU",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCC",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCL",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FCH",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBR",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0008"
+  }
+ ]
+}

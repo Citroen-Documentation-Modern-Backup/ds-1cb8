@@ -1,0 +1,18 @@
+{
+ "ref": "054001312060A",
+ "refDisplay": "0540 01 312060A",
+ "title": "EMBRAYAGE - MECANISME - DISQUE - BUTEE",
+ "nature": "",
+ "applicability": "BVM PILOTEE 6 RAPPORTS STT ET BVM MC",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0016"
+  }
+ ]
+}

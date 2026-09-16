@@ -1,0 +1,30 @@
+{
+ "ref": "D1AK010BP0",
+ "refDisplay": "D1AK010BP0",
+ "title": "Dépose - repose : Batterie de servitude 12 V",
+ "nature": "Précautions à prendre",
+ "applicability": "CHAINE TRACTION HYBRIDE",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0942"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FKA",
+   "fctId": "FCT0942"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FKB",
+   "fctId": "FCT0942"
+  }
+ ]
+}

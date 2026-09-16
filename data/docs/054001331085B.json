@@ -1,0 +1,18 @@
+{
+ "ref": "054001331085B",
+ "refDisplay": "0540 01 331085B",
+ "title": "FIXATIONS CARTER BVM",
+ "nature": "",
+ "applicability": "BVM PILOTEE 6 RAPPORTS STT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0017"
+  }
+ ]
+}

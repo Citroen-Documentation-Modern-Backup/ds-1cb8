@@ -1,0 +1,18 @@
+{
+ "ref": "054002532050D",
+ "refDisplay": "0540 02 532050D",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "CHAINE TRACTION HYBRIDE ET REFRIGERATION AUTOMATIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0303"
+  }
+ ]
+}

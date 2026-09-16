@@ -1,0 +1,23 @@
+{
+ "ref": "054001322550B",
+ "refDisplay": "0540 01 322550B",
+ "title": "CONVERTISSEUR",
+ "nature": "",
+ "applicability": "BOITE TYPE AM6 2",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBR",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0016"
+  }
+ ]
+}

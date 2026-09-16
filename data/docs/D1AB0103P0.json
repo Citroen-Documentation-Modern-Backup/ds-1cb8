@@ -1,0 +1,25 @@
+{
+ "ref": "D1AB0103P0",
+ "refDisplay": "D1AB0103P0",
+ "title": "Couples de serrage : éléments de la chaîne de traction hybride",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "CHAINE TRACTION HYBRIDE",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB8",
+   "variantKey": "B0D=B0DA5&B0F=B0FBB",
+   "fctId": "FCT0017"
+  }
+ ]
+}

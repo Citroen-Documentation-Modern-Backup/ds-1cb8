@@ -1,18 +1,1 @@
-{
- "ref": "054001330042A",
- "refDisplay": "0540 01 330042A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM PILOTEE 6 RAPPORTS HYBRIDE ET BVM MCF ET CP 17 X 74",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CB8",
-   "variantKey": "B0D=B0DA5&B0F=B0FBB",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"054001330042A","refDisplay":"0540 01 330042A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM PILOTEE 6 RAPPORTS HYBRIDE ET BVM MCF ET CP 17 X 74","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CB8","variantKey":"B0D=B0DA5&B0F=B0FBB","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CB8)(B0FBB)(B0G0W)(DBMAG)(DCWAY)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["mpr",{"catal":"0540","grp":"67","grp2":"01","maj":"20110729","numfich":"330042A"},[["appl",{},["{(?1CB8)(B0FBB)(B0G0W)(DBMAG)(DCWAY)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00090642","path":"/img/pr/42/0009/00090642.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"00002231S7","refpg":"2231 S7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 17X74"]]]],["reporg",{},[["monte",{},["DR33"]],["monte",{},["DR21"]],["monte",{},["DR16"]],["monte",{},["DS76"]],["monte",{},["DS97"]],["monte",{},["DR11"]],["monte",{},["DR12"]],["monte",{},["DR06"]],["monte",{},["DR19"]],["monte",{},["DSGF"]],["monte",{},["DR31"]],["monte",{},["DR25"]]]]]],["pr",{"codesi":"009391","ref":"00002232W2","refpg":"2232 W2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 17X74"]]]],["reporg",{},[["monte",{},["DR33"]],["monte",{},["DR21"]],["monte",{},["DR19"]],["monte",{},["DR31"]],["monte",{},["DR16"]],["monte",{},["DSG6"]],["monte",{},["DS76"]],["monte",{},["DS97"]],["monte",{},["DR11"]],["monte",{},["DR12"]],["monte",{},["DR06"]],["monte",{},["DSGF"]],["monte",{},["DR25"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"138, 92, 11","shape":"circle"},[]]]]]]]]]]}

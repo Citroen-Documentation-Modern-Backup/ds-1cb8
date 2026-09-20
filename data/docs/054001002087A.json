@@ -1,18 +1,1 @@
-{
- "ref": "054001002087A",
- "refDisplay": "0540 01 002087A",
- "title": "ENSEMBLE MOTEUR",
- "nature": "",
- "applicability": "CHAINE TRACTION HYBRIDE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CB8",
-   "variantKey": "B0D=B0DA5&B0F=B0FBB",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"054001002087A","refDisplay":"0540 01 002087A","title":"ENSEMBLE MOTEUR","nature":"","applicability":"CHAINE TRACTION HYBRIDE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CB8","variantKey":"B0D=B0DA5&B0F=B0FBB","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CB8)(B0FBB)(DXD02)}","tree":["document",{},[["thesaurus",{"type":"10","code":"013645"},[]],["thesaurus",{"type":"10","code":"013647"},[]],["thesaurus",{"type":"22","code":"P0000013"},[]],["thesaurus",{"type":"21","code":"L0004381"},[]],["thesaurus",{"type":"21","code":"L0004382"},[]],["mpr",{"catal":"0540","grp":"4","grp2":"01","maj":"20110413","numfich":"002087A"},[["appl",{},["{(?1CB8)(B0FBB)(DXD02)}"]],["sti",{"ident":"401"},[]],["obspage",{"ident":"P0000013"},[]],["img",{"numfich":"00089200","path":"/img/pr/00/0008/00089200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013645","ref":"00000135TJ","refpg":"0135 TJ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)}"]],["obsligne",{"ident":"L0004381"},[]]]],["reporg",{},[["monte",{},[" RH02"]]]]]],["pr",{"codesi":"013647","ref":"00000139XG","refpg":"0139 XG"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)(~2)}"]],["obsligne",{"ident":"L0004382"},[]]]],["reporg",{},[["monte",{},["(RH02)"]],["monte",{},[" RH02"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"346, 46, 11","shape":"circle"},[]]]]]]]]]]}

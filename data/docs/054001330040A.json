@@ -1,18 +1,1 @@
-{
- "ref": "054001330040A",
- "refDisplay": "0540 01 330040A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM PILOTEE 6 RAPPORTS STT ET BVM MCD ET CP 19 X 77",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CB8",
-   "variantKey": "B0D=B0DA5&B0F=B0FBM",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"054001330040A","refDisplay":"0540 01 330040A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM PILOTEE 6 RAPPORTS STT ET BVM MCD ET CP 19 X 77","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CB8","variantKey":"B0D=B0DA5&B0F=B0FBM","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CB8)(B0FBM)(B0G0S)(DBMAE)(DCW67)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["mpr",{"catal":"0540","grp":"67","grp2":"01","maj":"20111128","numfich":"330040A"},[["appl",{},["{(?1CB8)(B0FBM)(B0G0S)(DBMAE)(DCW67)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00085312","path":"/img/pr/12/0008/00085312.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ps":"1","ref":"00002231P2","refpg":"2231 P2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19 X 77"]]]],["reporg",{},[["monte",{},["DS87"]],["monte",{},["(DSEC)"]],["monte",{},["DS99"]],["monte",{},["DR23"]],["monte",{},["DS72"]],["monte",{},["DS53"]]]]]],["pr",{"codesi":"009391","ref":"00002232J8","refpg":"2232 J8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19 X 77"]]]],["reporg",{},[["monte",{},["DS87"]],["monte",{},["(DSE3)"]],["monte",{},["DSEC"]],["monte",{},["DS99"]],["monte",{},["DR23"]],["monte",{},["DS72"]],["monte",{},["DS53"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"318, 73, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "054001002240A",
- "refDisplay": "0540 01 002240A",
- "title": "CACHE MOTEUR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CB8",
-   "variantKey": "B0D=B0DA5&B0F=B0FCH",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"054001002240A","refDisplay":"0540 01 002240A","title":"CACHE MOTEUR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CB8","variantKey":"B0D=B0DA5&B0F=B0FCH","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CB8)(B0FCH)}","tree":["document",{},[["thesaurus",{"type":"10","code":"011724"},[]],["mpr",{"catal":"0540","grp":"99","grp2":"01","maj":"20111125","numfich":"002240A"},[["appl",{},["{(?1CB8)(B0FCH)}"]],["sti",{"ident":"9901"},[]],["img",{"numfich":"00086356","path":"/img/pr/56/0008/00086356.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"011724","ref":"00000137H5","refpg":"0137 H5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"221, 108, 11","shape":"circle"},[]]]]]]]]]]}

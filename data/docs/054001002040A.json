@@ -1,18 +1,1 @@
-{
- "ref": "054001002040A",
- "refDisplay": "0540 01 002040A",
- "title": "ENSEMBLE MOTEUR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CB8",
-   "variantKey": "B0D=B0DA5&B0F=B0FCH",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"054001002040A","refDisplay":"0540 01 002040A","title":"ENSEMBLE MOTEUR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CB8","variantKey":"B0D=B0DA5&B0F=B0FCH","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CB8)(B0FCH)}","tree":["document",{},[["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"10","code":"013646"},[]],["mpr",{"catal":"0540","grp":"4","grp2":"01","maj":"20120105","numfich":"002040A"},[["appl",{},["{(?1CB8)(B0FCH)}"]],["sti",{"ident":"401"},[]],["img",{"numfich":"00084094","path":"/img/pr/94/0008/00084094.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013644","ref":"00000135RX","refpg":"0135 RX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)}"]]]],["reporg",{},[["monte",{},["5F03"]]]]]],["pr",{"codesi":"013646","ref":"1608515280","refpg":"16 085 152 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)(~2)}"]]]],["reporg",{},[["monte",{},["5F03"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"314, 57, 11","shape":"circle"},[]]]]]]]]]]}

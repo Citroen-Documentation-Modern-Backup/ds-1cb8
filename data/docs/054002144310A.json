@@ -1,18 +1,1 @@
-{
- "ref": "054002144310A",
- "refDisplay": "0540 02 144310A",
- "title": "CONVERTISSEUR CHAINE DE TRACTION HYBRIDE",
- "nature": "",
- "applicability": "CHAINE TRACTION HYBRIDE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CB8",
-   "variantKey": "B0D=B0DA5&B0F=B0FBB",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"054002144310A","refDisplay":"0540 02 144310A","title":"CONVERTISSEUR CHAINE DE TRACTION HYBRIDE","nature":"","applicability":"CHAINE TRACTION HYBRIDE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CB8","variantKey":"B0D=B0DA5&B0F=B0FBB","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CB8)(B0FBB)(DXD02)}","tree":["document",{},[["thesaurus",{"type":"10","code":"016188"},[]],["thesaurus",{"type":"10","code":"016565"},[]],["mpr",{"catal":"0540","grp":"594","grp2":"02","maj":"20130822","numfich":"144310A"},[["appl",{},["{(?1CB8)(B0FBB)(DXD02)}"]],["sti",{"ident":"59401"},[]],["img",{"numfich":"00092788","path":"/img/pr/88/0009/00092788.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016188","ps":"1","ref":"1608572480","refpg":"16 085 724 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)(%TVCD00)/($,,1,13509)/}"]]]]]],["pr",{"codesi":"016188","ps":"1","ref":"1609238080","refpg":"16 092 380 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)(DOL07)(%TVCD00)/($,,1,13509)/}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"44, 276, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016565","ref":"9675697880","refpg":"96 756 978 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"329, 424, 11","shape":"circle"},[]]]]]]]]]]}

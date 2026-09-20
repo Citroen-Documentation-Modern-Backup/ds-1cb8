@@ -1,18 +1,1 @@
-{
- "ref": "054001223045A",
- "refDisplay": "0540 01 223045A",
- "title": "REMPLISSAGE HUILE DECANTEUR CANALISATION",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CB8",
-   "variantKey": "B0D=B0DA5&B0F=B0FCU",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"054001223045A","refDisplay":"0540 01 223045A","title":"REMPLISSAGE HUILE DECANTEUR CANALISATION","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CB8","variantKey":"B0D=B0DA5&B0F=B0FCU","fctId":"FCT0008"}],"kind":"pr","appl":"{(?1CB8)(B0FCU)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000698"},[]],["mpr",{"catal":"0540","grp":"33","grp2":"01","maj":"20111128","numfich":"223045A"},[["appl",{},["{(?1CB8)(B0FCU)}"]],["sti",{"ident":"3301"},[]],["img",{"numfich":"00078629","path":"/img/pr/29/0007/00078629.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000698","ref":"00001192CN","refpg":"1192 CN"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"154, 140, 11","shape":"circle"},[]]]]]]]]]]}

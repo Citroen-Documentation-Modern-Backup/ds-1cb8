@@ -1,18 +1,1 @@
-{
- "ref": "054001330535A",
- "refDisplay": "0540 01 330535A",
- "title": "NECESSAIRE REPAR POCHETTES JOINTS BVM",
- "nature": "",
- "applicability": "BVM MC ET BVM6 JUSQU’A OPR 13874",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CB8",
-   "variantKey": "B0D=B0DA5&B0F=B0FCH",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"054001330535A","refDisplay":"0540 01 330535A","title":"NECESSAIRE REPAR POCHETTES JOINTS BVM","nature":"","applicability":"BVM MC ET BVM6 JUSQU’A OPR 13874","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CB8","variantKey":"B0D=B0DA5&B0F=B0FCH","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CB8)(B0FCH)(DVQ21)(B0G06)/($,,1,13874)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000865"},[]],["mpr",{"catal":"0540","grp":"80","grp2":"01","maj":"20130826","numfich":"330535A"},[["appl",{},["{(?1CB8)(B0FCH)(DVQ21)(B0G06)/($,,1,13874)/}"]],["sti",{"ident":"8001"},[]],["img",{"numfich":"00086778","path":"/img/pr/78/0008/00086778.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000865","ref":"0000229967","refpg":"2299 67"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"61, 447, 11","shape":"circle"},[]]]]]]]]]]}

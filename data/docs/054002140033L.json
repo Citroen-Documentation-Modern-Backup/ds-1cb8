@@ -1,18 +1,1 @@
-{
- "ref": "054002140033L",
- "refDisplay": "0540 02 140033L",
- "title": "POMPE INJECTION SUPPORT PIGNON",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CB8",
-   "variantKey": "B0D=B0DA5&B0F=B0FBR",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"054002140033L","refDisplay":"0540 02 140033L","title":"POMPE INJECTION SUPPORT PIGNON","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CB8","variantKey":"B0D=B0DA5&B0F=B0FBR","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CB8)(B0FBR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"014355"},[]],["thesaurus",{"type":"10","code":"000434"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["mpr",{"catal":"0540","grp":"38","grp2":"02","maj":"20121116","numfich":"140033L"},[["appl",{},["{(?1CB8)(B0FBR)}"]],["sti",{"ident":"3801"},[]],["img",{"numfich":"00000808","path":"/img/pr/08/0000/00000808.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"014355","ref":"00001920QP","refpg":"1920 QP"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)}"]],["reffour",{},[["four",{},["45573K  01"]]]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"344, 202, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000434","ref":"0000192727","refpg":"1927 27"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"210, 146, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"008006","ref":"00006923G7","refpg":"6923 G7"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CB8)(B0FBB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-35"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"388, 454, 11","shape":"circle"},[]],["area",{"coords":"428, 276, 11","shape":"circle"},[]]]]]]]]]]}

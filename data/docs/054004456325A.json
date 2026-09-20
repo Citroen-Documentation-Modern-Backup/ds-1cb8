@@ -1,18 +1,1 @@
-{
- "ref": "054004456325A",
- "refDisplay": "0540 04 456325A",
- "title": "POMPE A VIDE",
- "nature": "",
- "applicability": "SANS CHAINE TRACTION HYBRIDE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CB8",
-   "variantKey": "B0D=B0DA5&B0F=B0FBB",
-   "fctId": "FCT0044"
-  }
- ]
-}
+{"ref":"054004456325A","refDisplay":"0540 04 456325A","title":"POMPE A VIDE","nature":"","applicability":"SANS CHAINE TRACTION HYBRIDE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CB8","variantKey":"B0D=B0DA5&B0F=B0FBB","fctId":"FCT0044"}],"kind":"pr","appl":"{(?1CB8)(DXD00)(B0FBB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001502"},[]],["thesaurus",{"type":"10","code":"015439"},[]],["thesaurus",{"type":"10","code":"015438"},[]],["mpr",{"catal":"0540","grp":"234","grp2":"04","maj":"20111129","numfich":"456325A"},[["appl",{},["{(?1CB8)(DXD00)(B0FBB)}"]],["sti",{"ident":"23401"},[]],["img",{"numfich":"00076734","path":"/img/pr/34/0007/00076734.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001502","ps":"1","ref":"0000456580","refpg":"4565 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"309, 156, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"015439","ref":"0000457019","refpg":"4570 19"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"199, 283, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"015438","ref":"0000456615","refpg":"4566 15"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CB8)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"416, 308, 11","shape":"circle"},[]]]]]]]]]]}

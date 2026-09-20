@@ -1,18 +1,1 @@
-{
- "ref": "054001330143A",
- "refDisplay": "0540 01 330143A",
- "title": "BOITE DE VITESSES AUTOMATIQUE",
- "nature": "",
- "applicability": "BVA AT6",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CB8",
-   "variantKey": "B0D=B0DA5&B0F=B0FCC",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"054001330143A","refDisplay":"0540 01 330143A","title":"BOITE DE VITESSES AUTOMATIQUE","nature":"","applicability":"BVA AT6","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CB8","variantKey":"B0D=B0DA5&B0F=B0FCC","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CB8)(B0FCC)(DVQ43)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009392"},[]],["thesaurus",{"type":"10","code":"003234"},[]],["mpr",{"catal":"0540","grp":"91","grp2":"01","maj":"20111128","numfich":"330143A"},[["appl",{},["{(?1CB8)(B0FCC)(DVQ43)}"]],["sti",{"ident":"9101"},[]],["img",{"numfich":"00082632","path":"/img/pr/32/0008/00082632.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009392","ref":"00002231N3","refpg":"2231 N3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 15X58"]]]],["reporg",{},[["monte",{},["GA03"]],["monte",{},["(GA03)"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"356, 157, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003234","ref":"00009734R7","refpg":"9734 R7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AW1 BOITE AM6-2/AT6"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"197, 100, 11","shape":"circle"},[]]]]]]]]]]}
